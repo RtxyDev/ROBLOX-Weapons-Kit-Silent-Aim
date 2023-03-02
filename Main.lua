@@ -5,7 +5,7 @@
 	Edited by Rtxyy
 
 ]]
-print("test")
+
 local UserInputService = game:GetService("UserInputService")
 local Players = game:GetService("Players")
 
